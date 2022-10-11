@@ -1,8 +1,15 @@
 button{
     width: 300px;
     height: 30px;
+    color: white;
+    background-color: green;
+    border: 0px;
 }
 input{
-    width: 100px;
+    width: 90px;
     height: 30px;
+}
+body{
+    width: 400px;
+    height: auto;
 }
